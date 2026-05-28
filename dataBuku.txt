@@ -1,0 +1,31 @@
+1;Algoritma dan Pemrograman;Teknologi;10;tersedia
+2;Struktur Data;Teknologi;8;tersedia
+3;Basis Data;Teknologi;12;tersedia
+4;Jaringan Komputer;Teknologi;7;tersedia
+5;Sistem Operasi;Teknologi;9;tersedia
+6;Pemrograman Java;Teknologi;15;tersedia
+7;Pemrograman Python;Teknologi;11;tersedia
+8;Machine Learning;Teknologi;6;tersedia
+9;Artificial Intelligence;Teknologi;5;tersedia
+10;Data Mining;Teknologi;8;tersedia
+11;Laskar Pelangi;Novel;20;tersedia
+12;Bumi Manusia;Novel;14;tersedia
+13;Ayat-Ayat Cinta;Novel;18;tersedia
+14;Dilan 1990;Novel;22;tersedia
+15;Perahu Kertas;Novel;16;tersedia
+16;Sejarah Indonesia;Sejarah;13;tersedia
+17;Sejarah Dunia;Sejarah;9;tersedia
+18;Perang Dunia II;Sejarah;7;tersedia
+19;Kerajaan Majapahit;Sejarah;10;tersedia
+20;Kerajaan Sriwijaya;Sejarah;8;tersedia
+21;Fisika Dasar;Sains;11;tersedia
+22;Kimia Dasar;Sains;12;tersedia
+23;Biologi Dasar;Sains;14;tersedia
+24;Astronomi;Sains;6;tersedia
+25;Geologi;Sains;5;tersedia
+26;Manajemen Bisnis;Ekonomi;9;tersedia
+27;Akuntansi Dasar;Ekonomi;10;tersedia
+28;Ekonomi Mikro;Ekonomi;8;tersedia
+29;Ekonomi Makro;Ekonomi;7;tersedia
+30;Kewirausahaan;Ekonomi;13;tersedia
+31;tes;sains;11;tersedia
